@@ -44,7 +44,7 @@ We identified a no signifance between age ranges of 16-19 and 30-39.
 ![Bar Graph Ages](https://github.com/emilia329/MOD-2-FIFIA-FL-EO/blob/master/Graphs/graph.png)
 
 # Recommendations
-    We recommend..
+We recommend..
 - There is no need to specifically looking for a left foot player as many believe they are the most expensive.
 - Investing in the youngest age range 16-19 may benefit because the next age range 20-29 is the age players are at their peak therefore more expensive. The youngest age group and the group of already experienced players 30-39 show no significant difference in their value. 
 - For the future, we can explore advantages and disadvantages between the age groups, specifically social media and early injuries.
