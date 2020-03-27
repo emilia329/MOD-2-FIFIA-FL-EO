@@ -33,7 +33,7 @@ We used many DataFrame methods to analyze and clean the data including .describe
 We determined there is so significance between left and right footed players and their value. 
 graph.
 
-![Bar Graph](https://github.com/emilia329/MOD-2-FIFIA-FL-EO/blob/master/Graphs/graph3.png)
+![Bar Graph](https://github.com/emilia329/MOD-2-FIFIA-FL-EO/blob/emilia-orellana/Graphs/graph3.png)
 
 In addition, we also looked into a players ball control and dribbling based on their preferred foot and both showed to be linear. 
 
